@@ -68,7 +68,7 @@ function App(){
 
     {url: 'https://www.bodybuilding.com/', label: "GET TO WORK"},
     {url: 'https://www.youtube.com/watch?v=8KRzqPxR5zs', label: "Motivation"},
-    {url: 'https://personal-website-6wnqyhh0i-tgspring.vercel.app/', label: "My work"}
+    {url: 'https://personal-website-delta-puce.vercel.app/', label: "My work"}
   ];
 
   return (
